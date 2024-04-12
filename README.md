@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yuanzhou/yuanzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![yuanzhou's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuanzhou)](https://github.com/anuraghazra/github-readme-stats)
+![yuanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhou\&rank_icon=github)
