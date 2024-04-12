@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![yuanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhou\&rank_icon=github)
+![yuanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhou\&rank_icon=github&include_all_commits=true&show=reviews,prs_merged)
