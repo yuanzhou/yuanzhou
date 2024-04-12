@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![yuanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhou)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanzhou&layout=compact)
+[![yuanzhou's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yuanzhou)](https://github.com/anuraghazra/github-readme-stats)
