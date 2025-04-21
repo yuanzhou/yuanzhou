@@ -2,7 +2,7 @@
 
 ![yuanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhou&show_icons=true&include_all_commits=true&show=reviews,prs_merged&theme=buefy&hide_border=true)
 
-## Latest blog posts
+## Latest blog posts from [tinyrumble.com](tinyrumble.com)
 
 <!-- blog start -->
 - [Sun Halo](https://tinyrumble.com/posts/2025-04-14-sun-halo/)
