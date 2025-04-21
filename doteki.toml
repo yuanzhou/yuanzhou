@@ -1,0 +1,7 @@
+[sections.blog]
+plugin = "feed"
+url = "https://tinyrumble.com/feed.xml"
+
+[sections.last_updated]
+plugin = "current_date"
+inline = true
