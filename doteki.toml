@@ -2,6 +2,7 @@
 plugin = "feed"
 url = "https://tinyrumble.com/feed.xml"
 n = 10
+show_date = true
 
 [sections.last_updated]
 plugin = "current_date"
