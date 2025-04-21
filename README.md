@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ![yuanzhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuanzhou\&rank_icon=github&include_all_commits=true&show=reviews,prs_merged)
+
+
+## Latest blog posts
+
+<!-- blog start -->
+<!-- blog end -->
+
+<sub>Last updated on <!-- last_updated start --><!-- last_updated end --></sub>
