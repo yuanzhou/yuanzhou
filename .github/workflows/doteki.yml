@@ -15,4 +15,4 @@ jobs:
       - name: Run dōteki action
         uses: welpo/doteki-action@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DOTEKI_TOKEN: ${{ secrets.DOTEKI_TOKEN }}
