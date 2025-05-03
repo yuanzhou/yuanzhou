@@ -9,6 +9,7 @@
 ## Latest blog posts from [tinyrumble.com](https://tinyrumble.com/)
 
 <!-- blog start -->
+- [When The Power Is Out](https://tinyrumble.com/posts/2025-05-03-when-power-out/) · 2025-05-03
 - [Respect Is An Earned Gift](https://tinyrumble.com/posts/2025-04-23-respect/) · 2025-04-23
 - [Sun Halo](https://tinyrumble.com/posts/2025-04-14-sun-halo/) · 2025-04-14
 - [Heart of Darkness vs. Heart of Gold](https://tinyrumble.com/posts/2025-03-20-heart-of-darkness-vs-gold/) · 2025-03-20
@@ -18,7 +19,6 @@
 - [Cowl Induction](https://tinyrumble.com/posts/2025-01-13-cowl-induction/) · 2025-01-13
 - [Blinded by The Light](https://tinyrumble.com/posts/2024-11-14-blinded-by-the-light/) · 2024-11-14
 - [Steering Upgrades](https://tinyrumble.com/posts/2024-10-25-sterring-upgrades/) · 2024-10-25
-- [Collateral—The Coyote Scene](https://tinyrumble.com/posts/2024-10-06-collateral/) · 2024-10-06
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2025-05-03<!-- last_updated end --></sub>
