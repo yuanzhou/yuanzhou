@@ -9,6 +9,7 @@
 ## Latest blog posts from [tinyrumble.com](https://tinyrumble.com/)
 
 <!-- blog start -->
+- [The Scorpion and the Frog](https://tinyrumble.com/posts/2025-05-23-scorpion-and-frog/) · 2025-05-23
 - [When The Power Is Out](https://tinyrumble.com/posts/2025-05-03-when-power-out/) · 2025-05-03
 - [Respect Is An Earned Gift](https://tinyrumble.com/posts/2025-04-23-respect/) · 2025-04-23
 - [Sun Halo](https://tinyrumble.com/posts/2025-04-14-sun-halo/) · 2025-04-14
@@ -18,7 +19,6 @@
 - [Give Me A Fish or Teach Me How To Fish](https://tinyrumble.com/posts/2025-02-12-spontaneous-poem/) · 2025-02-12
 - [Cowl Induction](https://tinyrumble.com/posts/2025-01-13-cowl-induction/) · 2025-01-13
 - [Blinded by The Light](https://tinyrumble.com/posts/2024-11-14-blinded-by-the-light/) · 2024-11-14
-- [Steering Upgrades](https://tinyrumble.com/posts/2024-10-25-sterring-upgrades/) · 2024-10-25
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2025-05-23<!-- last_updated end --></sub>
