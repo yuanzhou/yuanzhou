@@ -9,7 +9,7 @@
 ## Latest blog posts from [tinyrumble.com](https://tinyrumble.com/)
 
 <!-- blog start -->
-- [Declutter My Personal Email Inbox](https://tinyrumble.com/posts/2025-06-01-declutter-email/) · 2025-06-01
+- [How I Decluttered My Personal Email Inbox: A 90% Reduction](https://tinyrumble.com/posts/2025-06-01-declutter-email/) · 2025-06-01
 - [The Scorpion and the Frog](https://tinyrumble.com/posts/2025-05-23-scorpion-and-frog/) · 2025-05-23
 - [When The Power Is Out](https://tinyrumble.com/posts/2025-05-03-when-power-out/) · 2025-05-03
 - [Respect Is An Earned Gift](https://tinyrumble.com/posts/2025-04-23-respect/) · 2025-04-23
@@ -21,6 +21,6 @@
 - [Cowl Induction](https://tinyrumble.com/posts/2025-01-13-cowl-induction/) · 2025-01-13
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start -->2025-06-01<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2025-06-02<!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
