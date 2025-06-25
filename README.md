@@ -9,6 +9,7 @@
 ## Latest blog posts from [tinyrumble.com](https://tinyrumble.com/)
 
 <!-- blog start -->
+- [First Pair of Handmade Boots By Nicks](https://tinyrumble.com/posts/2025-06-25-nicks-handmade-boots/) · 2025-06-25
 - [How I Decluttered My Personal Email Inbox: A 90% Reduction](https://tinyrumble.com/posts/2025-06-01-declutter-email/) · 2025-06-01
 - [The Scorpion and the Frog](https://tinyrumble.com/posts/2025-05-23-scorpion-and-frog/) · 2025-05-23
 - [When The Power Is Out](https://tinyrumble.com/posts/2025-05-03-when-power-out/) · 2025-05-03
@@ -18,7 +19,6 @@
 - [Music and Laundry](https://tinyrumble.com/posts/2025-02-28-music-and-laundry/) · 2025-02-28
 - [An Earlier Heaven](https://tinyrumble.com/posts/2025-02-19-an-earlier-heaven/) · 2025-02-19
 - [Give Me A Fish or Teach Me How To Fish](https://tinyrumble.com/posts/2025-02-12-spontaneous-poem/) · 2025-02-12
-- [Cowl Induction](https://tinyrumble.com/posts/2025-01-13-cowl-induction/) · 2025-01-13
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2025-06-25<!-- last_updated end --></sub>
