@@ -21,6 +21,6 @@
 - [An Earlier Heaven](https://tinyrumble.com/posts/2025-02-19-an-earlier-heaven/) · 2025-02-19
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start -->2025-07-25<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2025-07-26<!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
