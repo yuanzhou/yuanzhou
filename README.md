@@ -9,6 +9,7 @@
 ## Latest blog posts from [tinyrumble.com](https://tinyrumble.com/)
 
 <!-- blog start -->
+- [Noose Knot Lanyards From Old Leather Shoe Lace](https://tinyrumble.com/posts/2025-08-09-noose-knot-lanyard/) · 2025-08-09
 - [Listen to the Quiet](https://tinyrumble.com/posts/2025-07-19-listen-to-the-quiet/) · 2025-07-19
 - [First Pair of Handmade Boots By Nicks](https://tinyrumble.com/posts/2025-06-25-nicks-handmade-boots/) · 2025-06-25
 - [How I Decluttered My Personal Email Inbox: A 90% Reduction](https://tinyrumble.com/posts/2025-06-01-declutter-email/) · 2025-06-01
@@ -18,7 +19,6 @@
 - [Sun Halo](https://tinyrumble.com/posts/2025-04-14-sun-halo/) · 2025-04-14
 - [Heart of Darkness vs. Heart of Gold](https://tinyrumble.com/posts/2025-03-20-heart-of-darkness-vs-gold/) · 2025-03-20
 - [Music and Laundry](https://tinyrumble.com/posts/2025-02-28-music-and-laundry/) · 2025-02-28
-- [An Earlier Heaven](https://tinyrumble.com/posts/2025-02-19-an-earlier-heaven/) · 2025-02-19
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2025-08-09<!-- last_updated end --></sub>
