@@ -9,7 +9,7 @@
 ## Latest blog posts from [tinyrumble.com](https://tinyrumble.com/)
 
 <!-- blog start -->
-- [Noose Knot Lanyards From Old Leather Shoe Lace](https://tinyrumble.com/posts/2025-08-09-noose-knot-lanyard/) · 2025-08-09
+- [Crafting Noose Knot Lanyards Using An Old Leather Shoelace](https://tinyrumble.com/posts/2025-08-09-noose-knot-lanyard/) · 2025-08-09
 - [Listen to the Quiet](https://tinyrumble.com/posts/2025-07-19-listen-to-the-quiet/) · 2025-07-19
 - [First Pair of Handmade Boots By Nicks](https://tinyrumble.com/posts/2025-06-25-nicks-handmade-boots/) · 2025-06-25
 - [How I Decluttered My Personal Email Inbox: A 90% Reduction](https://tinyrumble.com/posts/2025-06-01-declutter-email/) · 2025-06-01
@@ -21,6 +21,6 @@
 - [Music and Laundry](https://tinyrumble.com/posts/2025-02-28-music-and-laundry/) · 2025-02-28
 <!-- blog end -->
 
-<sub>Last updated on <!-- last_updated start -->2025-08-09<!-- last_updated end --></sub>
+<sub>Last updated on <!-- last_updated start -->2025-08-10<!-- last_updated end --></sub>
 
 <a href="https://doteki.org"><img src="https://img.shields.io/badge/powered_by-d%C5%8Dteki-0?style=flat-square&labelColor=202b2d&color=5E936C" align="right" alt="Powered by dōteki"></a>
