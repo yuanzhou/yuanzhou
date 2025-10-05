@@ -9,6 +9,7 @@
 ## Latest blog posts from [tinyrumble.com](https://tinyrumble.com/)
 
 <!-- blog start -->
+- [Say Goodbye to My Chainsaw](https://tinyrumble.com/posts/2025-10-03-goodbye-chainsaw/) · 2025-10-03
 - [Plumbing Repairs Are Not Fun](https://tinyrumble.com/posts/2025-08-25-plumbing/) · 2025-08-25
 - [Crafting Noose Knot Lanyards Using An Old Leather Shoelace](https://tinyrumble.com/posts/2025-08-09-noose-knot-lanyard/) · 2025-08-09
 - [Listen to the Quiet](https://tinyrumble.com/posts/2025-07-19-listen-to-the-quiet/) · 2025-07-19
@@ -18,7 +19,6 @@
 - [When The Power Is Out](https://tinyrumble.com/posts/2025-05-03-when-power-out/) · 2025-05-03
 - [Respect Is An Earned Gift](https://tinyrumble.com/posts/2025-04-23-respect/) · 2025-04-23
 - [Sun Halo](https://tinyrumble.com/posts/2025-04-14-sun-halo/) · 2025-04-14
-- [Heart of Darkness vs. Heart of Gold](https://tinyrumble.com/posts/2025-03-20-heart-of-darkness-vs-gold/) · 2025-03-20
 <!-- blog end -->
 
 <sub>Last updated on <!-- last_updated start -->2025-10-05<!-- last_updated end --></sub>
